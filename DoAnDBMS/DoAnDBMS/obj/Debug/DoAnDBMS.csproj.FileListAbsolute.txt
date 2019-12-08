@@ -1,0 +1,159 @@
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Xem.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.ThemChiTiet.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.SuaChiTiet.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.DangNhap.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMenu.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.DangNhap.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Xem.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMenu.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Sua.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Them.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.SuaChiTiet.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.ThemChiTiet.resources
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.dll
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.dll
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.DangNhap.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Sua.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Them.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Sua.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Them.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Xem.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMenu.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Sua.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Them.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.SuaChiTiet.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.ThemChiTiet.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Sua.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Them.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTBanHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTNhapHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDNhapHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormLoaiMatHang.resources
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNPP.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojResolveAssemblyReference.cache
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.DangNhap.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTBanHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTNhapHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Sua.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Them.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDNhapHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormLoaiMatHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNPP.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Sua.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Them.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Sua.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Them.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Xem.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMenu.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Sua.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Them.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.SuaChiTiet.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.ThemChiTiet.resources
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.Cache
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.dll
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.dll
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.pdb
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.dll
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.dll
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer1.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\bin\Debug\Layer2.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.DangNhap.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTBanHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormCTNhapHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Sua.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang_Them.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDBanHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormHDNhapHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormLoaiMatHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNPP.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Sua.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang_Them.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.KhachHang.FormKhachHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Sua.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Them.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang_Xem.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMatHang.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMenu.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Sua.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien_Them.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormNhanVien.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.SuaChiTiet.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.ThemChiTiet.resources
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CopyComplete
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb

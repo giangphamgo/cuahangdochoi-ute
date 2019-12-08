@@ -1,0 +1,28 @@
+c:\Users\HP\source\repos\DoAnDBMS\Layer1\bin\Debug\Layer1.dll
+c:\Users\HP\source\repos\DoAnDBMS\Layer1\bin\Debug\Layer1.pdb
+c:\Users\HP\source\repos\DoAnDBMS\Layer1\obj\Debug\Layer1.csproj.CoreCompileInputs.cache
+c:\Users\HP\source\repos\DoAnDBMS\Layer1\obj\Debug\Layer1.dll
+c:\Users\HP\source\repos\DoAnDBMS\Layer1\obj\Debug\Layer1.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\bin\Debug\Layer1.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\bin\Debug\Layer1.pdb
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.dll
+C:\Users\HP\source\repos\DoAnDBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\Layer1\bin\Debug\Layer1.dll
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\Layer1\bin\Debug\Layer1.pdb
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.dll
+C:\Users\ASUS\Desktop\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.pdb
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\bin\Debug\Layer1.dll
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\bin\Debug\Layer1.pdb
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.csprojResolveAssemblyReference.cache
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.csproj.CoreCompileInputs.cache
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.dll
+F:\DoAnDBMS - Hao\DoAnDBMS - Hao\DoAnDBMS\Layer1\obj\Debug\Layer1.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\bin\Debug\Layer1.dll
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\bin\Debug\Layer1.pdb
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.csprojAssemblyReference.cache
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.csproj.CoreCompileInputs.cache
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.dll
+D:\HCMUTE\2019-2020\DBMS\Do-an-DBMS\DoAnDBMS\Layer1\obj\Debug\Layer1.pdb
